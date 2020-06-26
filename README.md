@@ -4,5 +4,6 @@
 2. Run Client.java 
 3.Enter participant name and click connnect.
 4.Game is started .Now type the shown text 
+5.Type Racing video shows the total demonstration .
 
 
